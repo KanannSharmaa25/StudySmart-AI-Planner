@@ -116,10 +116,4 @@ This project is for educational and personal use.
 
 ---
 
-If you want, I can now:
-
-* tailor this README **exactly to your resume**, or
-* write **resume bullet points + interview explanation**, or
-* help you **deploy and add screenshots**
-
 
