@@ -122,4 +122,4 @@ If you want, I can now:
 * write **resume bullet points + interview explanation**, or
 * help you **deploy and add screenshots**
 
-Just tell me 💙
+
