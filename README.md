@@ -1,8 +1,3 @@
-Here’s a **clean, professional GitHub README** that sounds **human-written, not AI-generated**, and fits perfectly for projects, internships, and portfolios.
-
-You can **copy–paste this directly into `README.md`** 👇
-
----
 
 # 📘 StudySmart – AI-Powered Study Planner
 
